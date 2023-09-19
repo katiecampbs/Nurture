@@ -70,6 +70,12 @@ nav {
     font-size: 170%;
 }
 
+
+/* Main Content */
+main {
+    padding-top: 80px;
+}
+
 /* Footer styles */
 
 #social-icons {
