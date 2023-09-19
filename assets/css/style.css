@@ -11,11 +11,16 @@
 /* General styles */
 
 body {
+    color: #2c3a36;
     background-color: #8da9a1;
     font-family: "Red Hat Display", sans-serif;
+
 }
 
-a {text-decoration: none;}
+a {
+    text-decoration: none;
+    color: #2c3a36;
+}
 
 h1 {
     color: #2c3a36;
@@ -24,19 +29,23 @@ h1 {
 /* Header styles */
 
 header {
-    width:100%;
+    width: 100%;
     position: fixed;
     z-index: 99;
     background-color: #e2e9e7;
     padding: 5%;
 }
 
+#menu li {
+    list-style-type: none;
+}
+
 /* Footer styles */
 
 #social-icons {
-    position:fixed;
+    position: fixed;
     bottom: 0;
-    display:flex;
+    display: flex;
     justify-content: space-evenly;
     width: 100%;
     height: 50px;
@@ -46,9 +55,8 @@ header {
 }
 
 #social-icons i {
-    display:flex;
+    display: flex;
     flex-direction: row;
     padding: 10%;
     color: #2c3a36;
 }
-
