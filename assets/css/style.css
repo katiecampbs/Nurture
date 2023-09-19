@@ -44,6 +44,15 @@ header {
 #menu li {
     margin-bottom: 1em;
 }
+/* Toggle navigation drop down */
+nav {
+    position: absolute;
+    background-color: #e2e9e7;
+    left: 0;
+    padding: 0 1rem;
+    width: 100%;
+    display: none;
+}
 
 /* Footer styles */
 
