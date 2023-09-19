@@ -41,6 +41,10 @@ header {
     list-style-type: none;
 }
 
+#menu li {
+    margin-bottom: 1em;
+}
+
 /* Footer styles */
 
 #social-icons {
