@@ -9,9 +9,24 @@
 }
 
 /* General styles */
+
 body {
     background-color: #8da9a1;
     font-family: "Red Hat Display", sans-serif;
+}
+
+/* Header styles */
+
+header {
+    width:100%;
+    position: fixed;
+    z-index: 99;
+    background-color: #e2e9e7;
+    padding: 5%;
+}
+
+h1 {
+    color: #2c3a36;
 }
 
 /* Footer styles */
