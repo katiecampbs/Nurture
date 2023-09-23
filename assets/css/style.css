@@ -116,6 +116,11 @@ main {
     flex-direction: column;
 }
 
+#courses h3 {
+    background-color: rgba(197,211,207,1);
+    padding: 10px;
+}
+
 .yoga-image {
     height: 150px;
     width: auto;
