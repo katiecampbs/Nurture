@@ -102,6 +102,12 @@ main {
     font-weight: 400;
     text-align: center;}
 
+    .why-nurture {
+        display:block;
+        width:100%;
+        padding-top: 1rem;
+    }
+
 /* Footer styles */
 footer {
 
