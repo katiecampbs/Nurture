@@ -30,6 +30,7 @@ h1 {
 
 header {
     width: 100%;
+    height: auto;
     position: fixed;
     z-index: 99;
     background-color: #e2e9e7;
@@ -77,6 +78,11 @@ main {
 }
 
 /* Footer styles */
+
+footer {
+    height: auto;
+    width: 100%;
+}
 
 #social-icons {
     position: fixed;
