@@ -82,8 +82,9 @@ main {
 /* Footer styles */
 
 footer {
-    height: auto;
+    height: fit-content;
     width: 100%;
+    align-items: baseline;
 }
 
 #social-icons {
@@ -123,20 +124,24 @@ footer {
 
     #menu li {
         margin-right: 1.5rem;
-        font-size: larger;
+        font-size: 1rem;
     }
 
     .nav-toggle-label {
         display: none
     }
 
-    header {
-        font-size: 120%;
+    header h1 {
+        font-size: 200%;
     }
 
     /* Footer */
     #social-icons i {
         font-size: 200%;
+    }
+
+    main {
+        padding-top: 100px;
     }
 
 }
@@ -145,13 +150,9 @@ footer {
 @media screen and (min-width:1366px) {
     
     /* Header */
-    #menu li {
-        margin-right: 2rem;
-        font-size: x-large;
-    }
 
     header {
-        font-size: 250%;
+        font-size: 210%;
     }
 
 
