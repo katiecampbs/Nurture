@@ -79,10 +79,7 @@ main {
     padding-top: 80px;
 }
 
-#woman-on-mountain {
-    width:100%;
-    
-}
+
 
 /* Footer styles */
 
@@ -142,9 +139,9 @@ footer {
     }
 
     /* Main */
-         main {
-             padding-top: 100px;
-         }
+    main {
+        padding-top: 100px;
+    }
 
     /* Footer */
     #social-icons i {
@@ -155,7 +152,7 @@ footer {
 
 /* Responsive design for laptop screens and desktops */
 @media screen and (min-width:1366px) {
-    
+
     /* Header */
 
     header {
