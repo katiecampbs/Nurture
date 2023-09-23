@@ -108,6 +108,12 @@ main {
         padding-top: 1rem;
     }
 
+    .yoga-container {
+        position:relative;
+        display: flex;
+        flex-direction:column;
+    }
+
 /* Footer styles */
 footer {
 
