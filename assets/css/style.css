@@ -79,7 +79,28 @@ main {
     padding-top: 80px;
 }
 
+.image-container {
+    position: relative;
+    display: inline-block;
+}
 
+.image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(88,116,108, 0.3);
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
 
 /* Footer styles */
 
