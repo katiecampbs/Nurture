@@ -65,7 +65,9 @@ nav {
     display: block;
 }
 
-#nav-toggle {display:none;}
+#nav-toggle {
+    display: none;
+}
 
 .nav-toggle-label {
     font-size: 170%;
@@ -101,4 +103,40 @@ footer {
     flex-direction: row;
     padding: 10%;
     color: #2c3a36;
+}
+
+/* Responsive design for tablet screens and higher */
+@media screen and (min-width:768px) {
+
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu li {
+        margin-right: 1.5rem;
+        font-size:larger;
+    }
+
+    .nav-toggle-label {
+        display: none
+    }
+
+    header {
+        font-size: 120%;
+    }
+
+    /* Footer */
+        #social-icons i {
+            font-size: 230%;
+        }
+
 }
