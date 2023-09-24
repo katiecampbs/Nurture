@@ -212,6 +212,15 @@ main {
     padding-top: 5%;
 }
 
+/* Courses Page */
+.course-page-heading {
+    text-align: center;
+}
+
+.yoga-course-image {
+    max-width: 100%;
+}
+
 /* Footer styles */
 footer {
     margin-top: auto;
