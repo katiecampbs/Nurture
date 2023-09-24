@@ -217,6 +217,15 @@ main {
     text-align: center;
 }
 
+.courses-section {
+    padding:1rem;
+    display: flex;
+}
+
+.courses-section p {
+    padding-top: 1rem;
+}
+
 .yoga-course-image {
     max-width: 100%;
 }
