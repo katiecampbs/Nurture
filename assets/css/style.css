@@ -76,6 +76,7 @@ nav {
 /* Main Content */
 main {
     padding-top: 80px;
+
 }
 
 .image-container {
@@ -108,8 +109,16 @@ main {
     padding-top: 1rem;
 }
 
+.why-nurture h1, ul {
+    text-align: center;
+    list-style-type: none;
+}
 
 /* Courses overview sections */
+.courses-heading {
+    text-align: center;
+}
+
 #courses {
     width: 100%;
     display: flex;
