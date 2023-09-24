@@ -217,6 +217,11 @@ main {
     text-align: center;
 }
 
+.subheading {
+    text-align: center;
+    font-style: italic;
+}
+
 .courses-section {
     padding:1rem;
     display: flex;
