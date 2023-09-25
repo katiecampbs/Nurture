@@ -266,7 +266,7 @@ line-height: 150%;
 }
 
 .form-heading {
-    padding:10px;
+    padding:0 10px 10px 20px;
 }
 
 .submit-button {
@@ -282,6 +282,10 @@ line-height: 150%;
 #first-name, #surname, #email {
     border-radius: 5px;
     width:100%;
+}
+
+form h4 {
+    padding: 10px 0 10px 0;
 }
 
 /* Footer styles */
