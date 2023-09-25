@@ -305,7 +305,7 @@ footer {
     }
 
     .course-container div {
-        flex-grow: 1;
+        flex-grow:1;
         flex-basis: 200px;
     }
 
