@@ -219,6 +219,11 @@ ul {
     padding-top: 5px;
 }
 
+.course-container p {
+line-height: 150%;
+}
+
+
 .subheading {
     text-align: center;
     font-style: italic;
@@ -227,6 +232,8 @@ ul {
 .courses-section {
     padding: 1rem;
     display: flex;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .courses-section p {
