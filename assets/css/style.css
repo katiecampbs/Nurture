@@ -95,10 +95,10 @@ main {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: rgba(88, 116, 108, 0.3);
+    background-color: rgba(88, 116, 108, 0.9);
     color: #fff;
     padding: 10px 20px;
-    font-size: 1rem;
+    font-size: 300%;
     font-weight: 400;
     text-align: center;
 }
@@ -184,6 +184,14 @@ ul {
     background-size: cover;
     text-align: center;
     padding: 20%;
+    /* Used to make the text box tightly fit the text content */
+    display: flex;
+    justify-content: center;
+}
+
+/* Used to make the text box tightly fit the text content */
+.quit-smoking-image h3 {
+    width: fit-content;
 }
 
 /* Testimonial sections */
