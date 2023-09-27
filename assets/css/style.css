@@ -252,6 +252,11 @@ ul {
 }
 
 /* Courses Page */
+
+.main-course-section {
+    padding-top: 40px;
+}
+
 .course-page-heading {
     text-align: center;
     padding-top: 5px;
