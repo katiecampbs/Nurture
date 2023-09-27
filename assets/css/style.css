@@ -409,6 +409,10 @@ footer {
         flex-basis: 200px;
     }
 
+    .main-course-section {
+            padding-top: 30px;
+        }
+
 
     /* Footer */
     #social-icons i {
@@ -420,14 +424,18 @@ footer {
 /* Responsive design for laptop screens and desktops */
 @media screen and (min-width:1366px) {
 
-    /* Header */
-
-    header {
+/* Header */
+header {
         font-size: 210%;
     }
+
 /* Makes banner overlay text larger on larger screens */
 .overlay-text {
     font-size: 300%;
+}
+
+.main-course-section {
+    padding-top: 50px;
 }
 
 }
