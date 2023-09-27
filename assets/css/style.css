@@ -302,14 +302,40 @@ ul {
 
 /* Brochure page */
 /* Form styling */
+
+.brochure-background-image {
+    background-image: url("../images/water.jpg");
+    background-size: 100%;
+    background-color: #8da9a1;
+    padding-top: 40px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.brochure-background-image div {
+    flex-grow: 1;
+    flex-basis: 400px;
+    justify-content: center;
+}
+
 #form {
     background-color: #8da9a1;
-    padding: 0 10px 20px 10px;
-    margin: 0 10px;
+    padding: 10px;
+    margin: 5px 10px 20px 10px;
+    flex-grow: 2;
+    align-self: flex-start;
 }
 
 .form-heading {
-    padding: 0 10px 10px 20px;
+    padding-bottom: 10px;}
+
+.form-subheading {
+    padding: 10px;
+    background-color: #8da9a1;
+    margin: 5px 10px 30px 10px;
+    flex-grow: 1;
+    align-self: flex-start;
 }
 
 .submit-button {
@@ -417,8 +443,8 @@ footer {
     }
 
     .main-course-section {
-            padding-top: 30px;
-        }
+        padding-top: 30px;
+    }
 
 
     /* Footer */
@@ -431,18 +457,18 @@ footer {
 /* Responsive design for laptop screens and desktops */
 @media screen and (min-width:1366px) {
 
-/* Header */
-header {
+    /* Header */
+    header {
         font-size: 210%;
     }
 
-/* Makes banner overlay text larger on larger screens */
-.overlay-text {
-    font-size: 300%;
-}
+    /* Makes banner overlay text larger on larger screens */
+    .overlay-text {
+        font-size: 300%;
+    }
 
-.main-course-section {
-    padding-top: 50px;
-}
+    .main-course-section {
+        padding-top: 50px;
+    }
 
 }
