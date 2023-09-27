@@ -144,6 +144,9 @@ ul {
     background-size: cover;
     text-align: center;
     padding: 20%;
+    /* Used to make the text box tightly fit the text content */
+    display: flex;
+    justify-content: center;
 }
 
 .mindfulness-image {
@@ -154,6 +157,9 @@ ul {
     background-size: cover;
     text-align: center;
     padding: 20%;
+    /* Used to make the text box tightly fit the text content */
+    display: flex;
+    justify-content: center;
 }
 
 .walking-image {
@@ -164,6 +170,9 @@ ul {
     background-size: cover;
     text-align: center;
     padding: 20%;
+    /* Used to make the text box tightly fit the text content */
+    display: flex;
+    justify-content: center;
 }
 
 .cbt-image {
@@ -174,6 +183,9 @@ ul {
     background-size: cover;
     text-align: center;
     padding: 20%;
+    /* Used to make the text box tightly fit the text content */
+    display: flex;
+    justify-content: center;
 }
 
 .quit-smoking-image {
@@ -194,6 +206,21 @@ ul {
     width: fit-content;
 }
 
+.yoga-image h3 {
+    width: fit-content;
+}
+
+.cbt-image h3 {
+        width: fit-content;
+}
+
+.walking-image h3 {
+        width: fit-content;}
+
+.mindfulness-image h3 {
+        width: fit-content;
+    }
+    
 /* Testimonial sections */
 .testimonials {
     width: 100%;
