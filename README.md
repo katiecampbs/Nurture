@@ -4,7 +4,7 @@ Nurture is a site designed to attract those interested in leading a healthier li
 
 ## Features
 
-# Existing features
+### Existing features
 
 **Navigation bar**
 
@@ -51,7 +51,7 @@ Nurture is a site designed to attract those interested in leading a healthier li
  - The text alongside the form explains what they can expect to happen next, and directs them to the youtube channel while they wait
  - The form sits alongside a short gallery of course related imagery for visual interest
 
- ##Features left to implement
+ ### Features left to implement
 
  **Course leaders**
  
