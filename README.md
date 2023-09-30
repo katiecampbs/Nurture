@@ -1,39 +1,58 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#[Nurture](https://katiecampbs.github.io/Nurture/index.html)
 
-Welcome,
+Nurture is a site designed to attract those interested in leading a healthier lifestyle, through lifestyle changes such as yoga and mindfulness. It will provide a brief introduction to 'Nurture', the brand, with the intent of selling courses to prospective members. The site is informative and is designed to emote a positive experience in the user. There is a brief overview of the courses that Nurture can offer, and the opportunity for the user to request a brochure to be sent to their email address with further information. The site will also direct traffic to Nurture's social media channels.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+##Features
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+#Existing features
 
-## Codeanywhere Reminders
+-Navigation bar
+ -This includes a link to the 'Home' page, the 'Courses' page and the 'Request a brochure' page
+ -This is designed to be responsive so it collapses into a hidden menu on smaller screens
+ -It allows the user to navigate easily throughout the website without using the 'back' button
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+-Banner image
+ -This shows an inspirational image of a woman looking out over a sunset. It's designed to emote a positive reaction in the user, and hold their attention long enough to keep scrolling through the website
+ -The image itself is on brand, and relates to the content of the courses that Nurture offer
 
-`python3 -m http.server`
+-Why Choose Nurture?
+ -A brief section listing there reasons why the user should be interested in Nurture.
+ -This is designed to pique their interest and encourage them to keep reading
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+-Introduction to Courses
+  -A brief introduction to the types of courses on offer, with images that spark the imagination and help the user to visualise the classes better
+ -These are designed to be responsive on different screen sizes
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+-Testimonials
+  -A series of testimonials from current or previous course attendees
+  -Designed to illicit a sense of trust in the brand
+  -Images are used to make the testimonials feel more personal
 
-`http_server`
+-The Footer
+ -Includes links to Nurture's social media pages
+ -This will encourage traffic to the social media pages
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+-Courses
+ -This provides a more detailed overview of each of the courses, who the course is for, and what the intended outcome is
+ -Each course is combined with an image to help the user better visualise the courses
+ -At the bottom of the courses page is a link to take the user directly to the page to request a brochure
+ 
+-Request a brochure
+ -This page is designed to help the user request more information about the courses. They are required to fill in first and surname, as well as email address, and which courses they are interested in.
+ -The text alongside the form explains what they can expect to happen next, and directs them to the youtube channel while they wait
+ -The form sits alongside a short gallery of course related imagery for visual interest
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+ ##Features left to implement
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+ -Course leaders
+  -An additional section to be added to the courses page which has an image and a brief introduction to the course leaders and their qualifications
+  -This would help to increase a sense of trust in the user
 
-To log into the Heroku toolbelt CLI:
+-An embedded section of videos from Nurture's youtube channel with hints and tips about wellbeing
+ -This could allow more potential for views on the youtube channel, as the user doesn't even have to click to leave the website
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+ 
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
-
-Happy coding!
+ 
+ 
