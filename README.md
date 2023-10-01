@@ -83,6 +83,26 @@ Nurture is a site designed to attract those interested in leading a healthier li
 
 - This could allow more potential for views on the youtube channel, as the user doesn't even have to click to leave the website
 
+## Testing
+
+- Testing has been performed manually across each of the pages to ensure links work correctly. This includes the links in the header and footer, as well as the 'Request a brochure' button on the courses page
+- On the 'Request a brochure' page, each of the form entries has been marked as required, so I have tested that the user can only submit the form once each of these is filled out. I have also submitted forms as a test to see that the data is sent correctly
+- Chrome developer tools has been used to view the website across different viewport sizes, on different devices. This has enabled me to make the site reponsive, and design the elements so that they are user friendly regardless of screen size
+
+## Bugs
+
+- After deploying the website and reviewing with my mentor, I discovered the testimonial images were not displaying correctly as perfect circles on every screen size. We discovered it was an issue with padding interfering with the border-radius of each image. As a solution, each image was wrapped in a div, and the padding added to the div instead of the image element. The images now display correctly
+
+## Validator Testing
+
+- No errors were found in the HTML when testing with the official W3C Validator
+![Screenshot of W3c Validator](/assets/images/html-validator-test.png)
+
+- No errors were found in CSS when testing with the official Jigsaw validator
+![Screenshot of Jigsaw validator](/assets/images/css-validator-test.png)
+
+
+
  
 
 
