@@ -21,7 +21,7 @@ a {
     color: #2c3a36;
 }
 
-h1 {
+h1, h2 {
     color: #2c3a36;
 }
 
@@ -111,10 +111,17 @@ main {
     padding-right: 1rem;
 }
 
-.why-nurture h1,
-ul {
+.why-nurture {
+    text-align: center;
+}
+
+.why-nurture ul {
     text-align: center;
     list-style-type: none;
+}
+
+ul li {
+    margin-bottom: 15px;
 }
 
 /* Courses overview sections */
