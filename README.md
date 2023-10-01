@@ -4,6 +4,14 @@ Nurture is a site designed to attract those interested in leading a healthier li
 
 ![Screenshot of Nurture website on different screen sizes to show the site is responsive](/assets/images/website-mockup.png)
 
+The site was designed first in Balsamiq, which allowed for the layout to be loosely designed for different screen sizes beforehand
+
+![Wireframe](/assets/images/wireframe-screenshot.png)
+
+A colour palette of greens and neutrals was chosen to compliment the brand, because of it's association with nature. Dark and light colour tones are used in contrast to make text stand out against background colours. This makes the site more accessible for the user
+
+![Colour scheme](/assets/images/colour-scheme.png)
+
 ## Features
 
 ### Existing features
