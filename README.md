@@ -101,7 +101,65 @@ Nurture is a site designed to attract those interested in leading a healthier li
 - No errors were found in CSS when testing with the official Jigsaw validator
 ![Screenshot of Jigsaw validator](/assets/images/css-validator-test.png)
 
+## Deployment
 
+The site was deployed in Github, using the following steps:
+- Under the repository name, click settings
+- Under the code and automation section, click 'pages'
+- Underneath 'build and deployment', under 'source', make sure 'Deploy from a branch' is selected
+- Under the 'branch' section, select 'main' and 'root', and click 'save'
+
+The live link is located here - [Nurture](https://katiecampbs.github.io/Nurture/)
+
+## Credits
+
+### Images
+All images are licences for use and taken from [Unsplash](https://unsplash.com/license)
+
+[Woman on mountain](https://unsplash.com/photos/z0nVqfrOqWA)
+
+[Woman in dunes](https://unsplash.com/photos/4ydjTMLKdR4)
+
+[Yoga 1](https://unsplash.com/photos/xce530fBHrk)
+
+[Yoga 2](https://unsplash.com/photos/F2qh3yjz6Jk)
+
+[Walking](https://unsplash.com/photos/RRZM3cwS1DU)
+
+[Walking 2](https://unsplash.com/photos/mNGaaLeWEp0)
+
+[Cbt therapy](https://unsplash.com/photos/LQ1t-8Ms5PY)
+
+[Stop smoking](https://unsplash.com/photos/X00q3RXcyZ4)
+
+[Testimonial image 1](https://unsplash.com/photos/IF9TK5Uy-KI)
+
+[Testimonial image 2](https://unsplash.com/photos/KriecpTIWgY)
+
+[Testimonial image 3](https://unsplash.com/photos/DlgFZG0MvaU)
+
+[Water ](https://unsplash.com/photos/LCaKuYefLQk)
+
+[Yoga 3](https://unsplash.com/photos/t1NEMSm1rgI)
+
+[Beach woman](https://unsplash.com/photos/fk3XUcfTAvk)
+
+[Teamwork](https://unsplash.com/photos/Zyx1bK9mqmA)
+
+### Content
+
+- Asterisk wildcard selector code taken from the Love Running Code Institute project
+
+- Nav bar drop down with toggle is based on the menu for the Love Running Code Institute project
+
+- Banner image on home page was created using code from [this](https://www.bannerbear.com/blog/how-to-overlay-text-on-an-image-in-html-and-css/#:~:text=Overlaying%20Text%20on%20an%20Image%20in%20HTML%20and%20CSS,-HTML&text=In%20the%20body%20section%2C%20create,and%20add%20your%20text%20inside.) article on Banner Bear
+
+- Button for the 'Request a brochure' link on the courses page was created by amending code from [this](https://www.freecodecamp.org/news/html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags/) article at FreeCodeCamp
+
+- [Hashtagcolor Website](https://hashtagcolor.com/c5d3cf) was used for colour scheme inspiration
+
+- [CSS-Tricks Website](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - For help utilising flex box properties in CSS
+- Medale Oluwafemi, my mentor, for reviewing the project and troubleshooting with me - [Github](https://github.com/omedale)
 
  
 
