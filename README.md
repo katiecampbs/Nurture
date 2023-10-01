@@ -2,6 +2,8 @@
 
 Nurture is a site designed to attract those interested in leading a healthier lifestyle, through lifestyle changes such as yoga and mindfulness. It will provide a brief introduction to 'Nurture', the brand, with the intent of selling courses to prospective members. The site is informative and is designed to emote a positive experience in the user. There is a brief overview of the courses that Nurture can offer, and the opportunity for the user to request a brochure to be sent to their email address with further information. The site will also direct traffic to Nurture's social media channels.
 
+! [Screenshot of Nurture website on different screen sizes to show the site is responsive] (assets/images/website-mockup.png)
+
 ## Features
 
 ### Existing features
