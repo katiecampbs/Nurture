@@ -124,6 +124,8 @@ The live link is located here - [Nurture](https://katiecampbs.github.io/Nurture/
 ### Images
 All images are licences for use and taken from [Unsplash](https://unsplash.com/license)
 
+[Favicon](https://unsplash.com/photos/w1JE5duY62M?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
 [Woman on mountain](https://unsplash.com/photos/z0nVqfrOqWA)
 
 [Woman in dunes](https://unsplash.com/photos/4ydjTMLKdR4)
@@ -155,6 +157,8 @@ All images are licences for use and taken from [Unsplash](https://unsplash.com/l
 [Teamwork](https://unsplash.com/photos/Zyx1bK9mqmA)
 
 ### Content
+
+- Social media icons, and collapsed menu symbol are free from [Font Awesome](https://fontawesome.com/)
 
 - Asterisk wildcard selector code taken from the Love Running Code Institute project
 
