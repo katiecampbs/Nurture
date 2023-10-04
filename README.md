@@ -172,6 +172,7 @@ All images are licences for use and taken from [Unsplash](https://unsplash.com/l
 
 - [CSS-Tricks Website](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - For help utilising flex box properties in CSS
 - Medale Oluwafemi, my mentor, for reviewing the project and troubleshooting with me - [Github](https://github.com/omedale)
+- Text content for courses created using [CHAT GPT](https://chat.openai.com/)
 
  
 
