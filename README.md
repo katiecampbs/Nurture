@@ -4,6 +4,24 @@ Nurture is a site designed to attract those interested in leading a healthier li
 
 ![Screenshot of Nurture website on different screen sizes to show the site is responsive](/assets/images/website-mockup.png)
 
+# UX
+
+The site's intended users are customers, who have an interest in health and wellbeing. In particular those who are looking for guidance in some way. The site is designed to be informative, while representing the values of brand.
+
+## User stories
+
+- As a user, I want to navigate this website with ease and simplicity
+- As a user, I want to find out more about health and wellness
+- As a user, I want to find out what I can do, to imrpove my own wellbeing
+- As a user, I want to find out more about the courses Nurture offer, so that I can make a decision about which course is best for me
+- As a user, I want to request full course details
+- As a user, I want to see other customers experiences using the courses, so that I know whether I can trust the brand
+- As a user, I want to be able to see Nurture's social media pages, so that I can find a community of like-minded people
+
+## Strategy
+
+The intent of the website is to deliver information regarding health and wellbeing to a customer, in a visually pleasing manner.This information will solve a problem for the user, such as the need to quit smoking, or find guidance on losing weight. The goal is the user requesting a brochure, and booking a course.
+
 The site was designed first in Balsamiq, which allowed for the layout to be loosely designed for different screen sizes beforehand
 
 ![Wireframe](/assets/images/wireframe-screenshot.png)
