@@ -49,6 +49,7 @@ header {
 }
 
 /* Toggle navigation drop down */
+
 nav {
     position: absolute;
     background-color: #e2e9e7;
@@ -60,6 +61,7 @@ nav {
 }
 
 /* Nav toggle */
+
 #nav-toggle:checked~nav {
     display: block;
 }
@@ -73,11 +75,13 @@ nav {
 }
 
 /* Main Content */
+
 main {
     padding-top: 40px;
 }
 
 /* Styling for banner image */
+
 .image-container {
     position: relative;
     display: inline-block;
@@ -103,6 +107,7 @@ main {
 }
 
 /* Why Nurture list section */
+
 .why-nurture {
     display: block;
     width: 100%;
@@ -122,6 +127,7 @@ ul li {
 }
 
 /* Courses overview sections */
+
 .courses-heading {
     text-align: center;
 }
@@ -143,6 +149,7 @@ ul li {
 }
 
 /*Course images with text on home page*/
+
 .fitness-image {
     background-color: #2c3a36;
     background-position: center;
@@ -175,35 +182,15 @@ ul li {
     background-image: url("../images/stop-smoking.jpg");
 }
 
-/* Used to make the text box tightly fit the text content */
+/* Used to make the text box tightly fit the text content for the course images above*/
 
 .fit-content {
     width: fit-content;
     height: fit-content;
 }
 
-/*.quit-smoking-image h3 {
-    width: fit-content;
-}
-
-.yoga-image h3 {
-    width: fit-content;
-    height: fit-content;
-}
-
-.cbt-image h3 {
-    width: fit-content;
-}
-
-.walking-image h3 {
-    width: fit-content;
-}
-
-.mindfulness-image h3 {
-    width: fit-content;
-}*/
-
 /* Testimonial sections */
+
 .testimonials {
     width: 100%;
     display: flex;
@@ -245,7 +232,6 @@ ul li {
     line-height: 150%;
 }
 
-
 .subheading {
     text-align: center;
     font-style: italic;
@@ -268,6 +254,7 @@ ul li {
 }
 
 /* Button at the bottom of courses page */
+
 .button-div {
     text-align: center;
     padding-top: 20px;
@@ -328,6 +315,7 @@ form h4 {
 }
 
 /* Footer styles */
+
 footer {
     bottom: 0;
 }
@@ -348,7 +336,7 @@ footer {
     color: #2c3a36;
 }
 
-/* Responsive design for home page banner text */
+/* Responsive design specifically for home page banner text */
 
 @media screen and (min-width:500px) {
 
@@ -359,9 +347,11 @@ footer {
 }
 
 /* Responsive design for tablet screens and higher */
+
 @media screen and (min-width:768px) {
 
     /* Header */
+
     nav {
         display: block;
         position: relative;
@@ -388,6 +378,7 @@ footer {
     }
 
     /* Main */
+
     main {
         padding-top: 80px;
     }
@@ -397,7 +388,7 @@ footer {
         font-size: 200%;
     }
 
-    /* Courses page */
+    /* Flex for courses page */
     .course-container {
         display: flex;
         flex-direction: row;
@@ -416,7 +407,6 @@ footer {
     }
 
     /*Brochure page */
-
         .brochure-background-image {
             padding-top:4px;
             block-size: 1200px;
