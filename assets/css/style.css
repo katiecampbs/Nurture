@@ -245,7 +245,7 @@ ul li {
 }
 
 .courses-section p {
-    padding: 1rem;
+    padding: 2rem;
     background-color: #e2e9e7;
 }
 
@@ -394,13 +394,12 @@ footer {
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        align-content: center;
         gap: 20px;
     }
 
     .course-container div {
         flex-grow: 1;
-        flex-basis: 200px;
+        flex-basis: 400px;
     }
 
     .main-course-section {
@@ -416,7 +415,7 @@ footer {
         #form {
             background-color: #C1D2D0;
             padding: 40px;
-            margin: 60px 180px;
+            margin: 60px 180px 80px 180px;
         }
 
        .form-heading {
@@ -441,6 +440,19 @@ footer {
     }
 
     .main-course-section {
-        padding-top: 70px;
+        padding-top: 80px;
+    }
+
+    .course-container div {
+        padding: 50px;
+        font-size: 130%;
+    }
+
+    .form-heading {
+        margin:100px 500px 30px 500px;
+    }
+
+    #form {
+        margin: 80px 500px 50px 500px;
     }
 }
