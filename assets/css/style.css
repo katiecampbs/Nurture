@@ -444,7 +444,7 @@ footer {
     }
 
     .course-container div {
-        padding: 50px;
+        padding: 30px;
         font-size: 130%;
     }
 
@@ -455,4 +455,9 @@ footer {
     #form {
         margin: 80px 500px 50px 500px;
     }
+}
+
+@media screen and (min-width:2000px) {
+    
+    .course-container {margin: 0 400px;}
 }
