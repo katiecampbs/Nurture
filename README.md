@@ -20,19 +20,35 @@ The site's intended users are customers, who have an interest in health and well
 
 ## Strategy
 
-The intent of the website is to deliver information regarding health and wellbeing to a customer, in a visually pleasing manner.This information will solve a problem for the user, such as the need to quit smoking, or find guidance on losing weight. The goal is the user requesting a brochure, and booking a course.
+The intent of the website is to deliver information regarding health and wellbeing to a customer, in a visually pleasing manner. This information will solve a problem for the user, such as the need to quit smoking, or find guidance on losing weight. The goal is the user requesting a brochure, and booking a course.
 
-The site was designed first in Balsamiq, which allowed for the layout to be loosely designed for different screen sizes beforehand
+## Scope
 
+The features required to meet the user needs include:
+- A brief introduction to Nurture as a brand
+- Member stories to build trust and connection
+- Informative sections with an overview of the courses provided
+- The ability to request more information in order to book a course
+
+## Structure
+
+- **Home/Landing page** providing a basic overview of the brand and what is has to offer. This page includes some testimonials from previous members of the courses
+- **Courses page** with a more detailed look at the courses on offer. This page includes a call to action at the bottom, using a button to request a brochure
+- **Request a brochure page** that allows the user to request more information be sent to their email address, in order for them to book a course. This includes a form that takes a name, email address and asks which courses they are interested in
+- **Footer** which provides links to social media pages for Nurture
+
+## Skeleton
+
+The website uses a heirarchical structure, based on a parent page, and child pages. Each page was design first in Balsamiq, which allowed for the layout to be loosely designed for different screen sizes beforehand
+
+![Wireframe](/assets/images/wireframe-1.png)
 ![Wireframe](/assets/images/wireframe-screenshot.png)
 
-A colour palette of greens and neutrals was chosen to compliment the brand, because of it's association with nature. Dark and light colour tones are used in contrast to make text stand out against background colours. This makes the site more accessible for the user
+## Surface
+
+A colour palette of greens and neutrals was chosen to compliment the brand, because of it's association with nature. Dark and light colour tones are used in contrast to make text stand out against background colours. This makes the site more accessible for the user.
 
 ![Colour scheme](/assets/images/colour-scheme.png)
-
-## Features
-
-### Existing features
 
 **Navigation bar**
 
@@ -94,9 +110,7 @@ A colour palette of greens and neutrals was chosen to compliment the brand, beca
 - This page is designed to help the user request more information about the courses. They are required to fill in first and surname, as well as email address, and which courses they are interested in.
 - The text alongside the form explains what they can expect to happen next, and directs them to the youtube channel while they wait
 
-![Screenshot of image gallery on Request a brochure page](/assets/images/form-2.png)
-
-- The form sits alongside a short gallery of course related imagery for visual interest
+![Screenshot showing form on Request a brochure page](/assets/images/form-2.png)
 
 ### Features left to implement
 
@@ -114,6 +128,7 @@ A colour palette of greens and neutrals was chosen to compliment the brand, beca
 - Testing has been performed manually across each of the pages to ensure links work correctly. This includes the links in the header and footer, as well as the 'Request a brochure' button on the courses page
 - On the 'Request a brochure' page, each of the form entries has been marked as required, so I have tested that the user can only submit the form once each of these is filled out. I have also submitted forms as a test to see that the data is sent correctly
 - Chrome developer tools has been used to view the website across different viewport sizes, on different devices. This has enabled me to make the site reponsive, and design the elements so that they are user friendly regardless of screen size
+- [WebAIM](https://webaim.org/resources/contrastchecker/?fcolor=02AFD0&bcolor=FFFF00) was used to check the contrast between the text and the background. Consequently I found making the background body colour lighter increased accessibility for the user
 
 ## Bugs
 
